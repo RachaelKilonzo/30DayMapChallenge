@@ -19,3 +19,12 @@ Each day of the challenge will have a specific theme or focus area. Examples of 
 
 ### How to Follow Along
 I will be posting daily updates on this repository, showcasing the maps created for each theme. Feel free to follow along, provide feedback, and share your own creations. Let's make mapping a fun and educational experience!
+
+---
+#### Day 2: Kenya's River Basins
+
+
+---
+
+#### Day 1: Sub-Sahara Africa Rivers
+
