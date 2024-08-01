@@ -23,6 +23,8 @@ I will be posting daily updates on this repository, showcasing the maps created 
 ---
 #### Day 2: Kenya's River Basins
 
+![Kenya's River Basins](https://github.com/RachaelKilonzo/30DayMapChallenge/blob/main/Plots/KenyaRiverBasins.png)
+
 
 ---
 
