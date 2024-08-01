@@ -21,9 +21,10 @@ Each day of the challenge will have a specific theme or focus area. Examples of 
 I will be posting daily updates on this repository, showcasing the maps created for each theme. Feel free to follow along, provide feedback, and share your own creations. Let's make mapping a fun and educational experience!
 
 ---
-#### Day 2: Kenya's River Basins
+#### Day 2 (02/08/2024): Data by [HydroSHEDS](https://www.hydrosheds.org/products/hydrobasins) & Tutorial by [Milos Papovic](https://www.youtube.com/watch?v=HugGwjogPv0)
 
-![Kenya's River Basins](https://github.com/RachaelKilonzo/30DayMapChallenge/blob/main/Plots/KenyaRiverBasins.png)
+
+![](https://github.com/RachaelKilonzo/30DayMapChallenge/blob/main/Plots/KenyaRiverBasins.png)
 
 
 ---
