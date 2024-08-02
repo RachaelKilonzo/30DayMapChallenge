@@ -28,6 +28,16 @@ I will be posting daily updates on this repository, showcasing the maps created 
 
 
 ---
+#### Day 1 (01/08/2024): 🌍 Sub Sahhara Africa Rivers: Data by [HydroSHEDS](https://www.hydrosheds.org/products/hydrobasins) : Tutorial by [Milos Agatho](https://www.youtube.com/watch?v=tlVNJTZO2js)
+
+
+![](https://github.com/RachaelKilonzo/30DayMapChallenge/blob/main/Plots/SSAfricaRivers_Compressed.png)
+
+
+
+
+
+---
 
 #### Day 1: Sub-Sahara Africa Rivers
 
