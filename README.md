@@ -21,11 +21,16 @@ Each day of the challenge will have a specific theme or focus area. Examples of 
 I will be posting daily updates on this repository, showcasing the maps created for each theme. Feel free to follow along, provide feedback, and share your own creations. Let's make mapping a fun and educational experience!
 
 ---
+#### Day 3(03/08/2024): 💨 Air Quality Index for Italy on 03/08/2024: Data by [WAQI](https://aqicn.org/api)
+
+
+![](https://github.com/RachaelKilonzo/30DayMapChallenge/blob/main/Plots/AirPollutionItalyCompressed.png)
+
+---
 #### Day 2 (02/08/2024): 🌊 Kenya's River Basins: Data by [HydroSHEDS](https://www.hydrosheds.org/products/hydrobasins) : Tutorial by [Milos Popovic](https://www.youtube.com/watch?v=HugGwjogPv0)
 
 
 ![](https://github.com/RachaelKilonzo/30DayMapChallenge/blob/main/Plots/KenyaRiverBasins.png)
-
 
 ---
 #### Day 1 (01/08/2024): 🌍 Sub Sahhara Africa Rivers: Data by [HydroSHEDS](https://www.hydrosheds.org/products/hydrobasins) : Tutorial by [Milos Agatho](https://www.youtube.com/watch?v=tlVNJTZO2js)
@@ -33,11 +38,4 @@ I will be posting daily updates on this repository, showcasing the maps created 
 
 ![](https://github.com/RachaelKilonzo/30DayMapChallenge/blob/main/Plots/SSAfricaRivers_Compressed.png)
 
-
-
-
-
 ---
-
-#### Day 1: Sub-Sahara Africa Rivers
-
