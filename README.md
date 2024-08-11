@@ -17,7 +17,7 @@ Each day of the challenge will have a specific theme or focus area. Examples of 
 - **Day 1:** Sub-Sahara Africa Rivers
 - **Day 2:** Kenya's River Basins
 - **Day 3:** Air Quality Index for Italy on 03/08/2024
-- **Day 6: ** Kibera Slums: 2.5 Km Radius
+- **Day 6:** Kibera Slums: 2.5 Km Radius
 
 ### How to Follow Along
 I will be posting daily updates on this repository, showcasing the maps created for each theme. Feel free to follow along, provide feedback, and share your own creations. Let's make mapping a fun and educational experience!
