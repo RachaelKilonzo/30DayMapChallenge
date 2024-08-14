@@ -22,7 +22,7 @@ Each day of the challenge will have a specific theme or focus area. Examples of 
 - **Day 8:** Streets of Urban Hubs of East Africa
 
 ### How to Follow Along
-I will be posting daily updates on this repository, showcasing the maps created for each theme. Feel free to follow along, provide feedback, and share your own creations. Let's make mapping a fun and educational experience!
+#### I will be posting daily updates on this repository, showcasing the maps created for each theme. Feel free to follow along, provide feedback, and share your own creations. Let's make mapping a fun and educational experience!
 ---
 #### Day8(08/08/2024): 🛣️ Urban Hubs of East Africa: Exploring the Central Business Districts of Nairobi, Dar es Salaam, Kampala, and Kigali | Data by [OpenStreetMap](https://www.openstreetmap.org/#map=16/-1.9577/30.0860)
 
