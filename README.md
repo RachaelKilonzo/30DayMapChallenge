@@ -20,9 +20,15 @@ Each day of the challenge will have a specific theme or focus area. Examples of 
 - **Day 6:** Kibera Slums: 2.5 Km Radius
 - **Day 7:** Mapping the Mukuru Slums Cluster
 - **Day 8:** Streets of Urban Hubs of East Africa
+- **Day 9:** Arrests of Rape and Sex crimes by the NYPD in NYC
 
 ### How to Follow Along
 #### I will be posting daily updates on this repository, showcasing the maps created for each theme. Feel free to follow along, provide feedback, and share your own creations. Let's make mapping a fun and educational experience!
+
+---
+#### Day9(09/08/2024): 🛣️ Arrests of Rape and Sex crimes by the NYPD in NYC | Data by [NYC OpenData](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc/about_data) | Code by [Cédric Scherer](https://github.com/z3tt) 
+
+![](https://github.com/RachaelKilonzo/30DayMapChallenge/blob/main/Plots/Day9%20%3D%20NYPDArrests.png)
 ---
 #### Day8(08/08/2024): 🛣️ Urban Hubs of East Africa: Exploring the Central Business Districts of Nairobi, Dar es Salaam, Kampala, and Kigali | Data by [OpenStreetMap](https://www.openstreetmap.org/#map=16/-1.9577/30.0860)
 
