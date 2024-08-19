@@ -28,35 +28,35 @@ Each map of the challenge will have a specific theme or focus area. Examples of 
 ---
 #### Day9(09/08/2024): 🛣️ Arrests of Rape and Sex crimes by the NYPD in NYC | Data by [NYC OpenData](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc/about_data) | Code by [Cédric Scherer](https://github.com/z3tt) 
 
-![](https://github.com/RachaelKilonzo/30DayMapChallenge/blob/main/Plots/Day9%20%3D%20NYPDArrests.png)
+![](https://github.com/RachaelKilonzo/MapChallenge/blob/main/Plots/Day9%20%3D%20NYPDArrests.png)
 ---
 #### Day8(08/08/2024): 🛣️ Urban Hubs of East Africa: Exploring the Central Business Districts of Nairobi, Dar es Salaam, Kampala, and Kigali | Data by [OpenStreetMap](https://www.openstreetmap.org/#map=16/-1.9577/30.0860)
 
-![](https://github.com/RachaelKilonzo/30DayMapChallenge/blob/main/Plots/Day8%20%3D%20EAC_CBDS.png)
+![](https://github.com/RachaelKilonzo/MapChallenge/blob/main/Plots/Day8%20%3D%20EAC_CBDS.png)
 
 ---
 #### Day 7(07/08/2024): 🌆 Mapping the Mukuru Cluster: An Open Map Layout of Mukuru kwa Njenga, Reuben, and Kware Slums | Data by [OpenStreetMap](https://www.openstreetmap.org/#map=12/-1.2760/36.7589)
 
-![](https://github.com/RachaelKilonzo/30DayMapChallenge/blob/main/Plots/Day7%20%3D%20MukuruNeighbourhood_compressed.png)
+![](https://github.com/RachaelKilonzo/MapChallenge/blob/main/Plots/Day7%20%3D%20MukuruNeighbourhood_compressed.png)
 
 ---
 #### Day 6(06/08/2024): 🌆 A 2.5 Km Perspective of Kibera Slums |  Data by [OpenStreetMap](https://www.openstreetmap.org/#map=12/-1.2760/36.7589)
 
-![](https://github.com/RachaelKilonzo/30DayMapChallenge/blob/main/Plots/Day6%20%3D%20RadiusKibera_compressed.png)
+![](https://github.com/RachaelKilonzo/MapChallenge/blob/main/Plots/Day6%20%3D%20RadiusKibera_compressed.png)
 
 ---
 #### Day 3(03/08/2024): 💨 Air Quality Index for Italy on 03/08/2024 | Data by [WAQI](https://aqicn.org/api)
 
-![](https://github.com/RachaelKilonzo/30DayMapChallenge/blob/main/Plots/Day3%20%3D%20AirPollutionItalyCompressed.png)
+![](https://github.com/RachaelKilonzo/MapChallenge/blob/main/Plots/Day2%20%3D%20KenyaRiverBasins.png)
 
 ---
 #### Day 2 (02/08/2024): 🌊 Kenya's River Basins | Data by [HydroSHEDS](https://www.hydrosheds.org/products/hydrobasins) | Tutorial by [Milos Popovic](https://www.youtube.com/watch?v=HugGwjogPv0)
 
-![](https://github.com/RachaelKilonzo/30DayMapChallenge/blob/main/Plots/Day2%20%3D%20KenyaRiverBasins.png)
+![](https://github.com/RachaelKilonzo/MapChallenge/blob/main/Plots/Day2%20%3D%20KenyaRiverBasins.png)
 
 ---
 #### Day 1 (01/08/2024): 🌍 Sub Sahhara Africa Rivers | Data by [HydroSHEDS](https://www.hydrosheds.org/products/hydrobasins) | Tutorial by [Milos Agatho](https://www.youtube.com/watch?v=tlVNJTZO2js)
 
-![](https://github.com/RachaelKilonzo/30DayMapChallenge/blob/main/Plots/Day1%20%3D%20SSAfricaRivers_Compressed.png)
+![](https://github.com/RachaelKilonzo/MapChallenge/blob/main/Plots/Day1%20%3D%20SSAfricaRivers_Compressed.png)
 
 ---
