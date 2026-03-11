@@ -1,6 +1,6 @@
-# 30DayMapChallenge
+# DailyMapChallenge
 
-### During the month of August 2024, the goal is to create different maps. The intention is to concentrate on Sub-Sahara African countries but may extend to other regions.
+## Africa in Maps
 
 ### Goals and Objectives
 - **Raise Awareness:** Highlight the unique features and challenges of Sub-Sahara African countries.
@@ -21,9 +21,6 @@ Each map of the challenge will have a specific theme or focus area. Examples of 
 - **Day 7:** Mapping the Mukuru Slums Cluster
 - **Day 8:** Streets of Urban Hubs of East Africa
 - **Day 9:** Arrests of Rape and Sex crimes by the NYPD in NYC
-
-### How to Follow Along
-#### I will be posting updates on this repository every other day, showcasing the maps created for each theme. Feel free to follow along, provide feedback, and share your own creations. Let's make mapping a fun and educational experience!
 
 ---
 #### Day9(09/08/2024): 🛣️ Arrests of Rape and Sex crimes by the NYPD in NYC | Data by [NYC OpenData](https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc/about_data) | Code by [Cédric Scherer](https://github.com/z3tt) 
